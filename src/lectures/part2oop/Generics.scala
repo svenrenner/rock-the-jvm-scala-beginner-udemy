@@ -53,5 +53,5 @@ object Generics extends App {
   // val newCage = new Cage(new Car)
 
 
-  // expand MyList to be genericd
+  // expand MyList to be generic
 }
